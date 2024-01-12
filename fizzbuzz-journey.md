@@ -1,3 +1,4 @@
+```shell
 vagrant@ubuntu:~/Documents/dev/my-first-repo$ touch fizzbuzz.py
 vagrant@ubuntu:~/Documents/dev/my-first-repo$ ls
 LICENSE  README.md  fizzbuzz.py  hello.py
@@ -327,3 +328,4 @@ Total 15 (delta 6), reused 0 (delta 0), pack-reused 0
 remote: Resolving deltas: 100% (6/6), done.
 To https://github.com/kingwangzzang1234/my-first-repo.git
    f7f4564..330353b  main -> main
+```
